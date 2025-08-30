@@ -1,0 +1,17 @@
+# virtual environment installed with python 3.12 
+pandas==2.2.2
+numpy==1.26.4
+seaborn==0.13.2
+matplotlib==3.9.2
+scipy==1.14.1
+scikit-learn==1.4.2
+xgboost==2.1.2
+catboost==1.2.7
+lightgbm==4.6.0
+imbalanced-learn==0.14.0
+tensorflow==2.17.0
+keras==3.5.0
+shap==0.45.1
+scikeras==0.13.0
+joblib
+Flask
